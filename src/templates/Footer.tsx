@@ -54,10 +54,10 @@ const Footer = () => (
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/">About</Link>
+          <Link href="mailto:tannerln7@tannerln7.com">Email</Link>
         </li>
         <li>
-          <Link href="/">Docs</Link>
+          <Link href="https://auth.tannerln7.com">Sign In</Link>
         </li>
       </CenteredFooter>
     </Section>
