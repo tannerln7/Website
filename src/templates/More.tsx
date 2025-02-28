@@ -4,7 +4,7 @@ import { Section } from '@/layout/Section';
 
 const More = () => (
   <Section
-    title="Powerful Tools, Seamless Integration"
+    title="One low monthly fee. Cancel anytime"
     description="Enhance your video streaming experience with cutting-edge integrations from industry-leading platforms."
   >
     <table className="mx-auto border-collapse">
