@@ -11,10 +11,7 @@ const More = () => (
       <tbody>
         <tr className="h-56">
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://drive.google.com"
-              target="_blank"
-            >
+            <a href="https://drive.google.com" target="_blank">
               <Image
                 src="/assets/images/drive.webp"
                 alt="Sentry – Error Monitoring & Performance Tracking"
@@ -24,10 +21,7 @@ const More = () => (
             </a>
           </td>
           <td className="border-2 border-gray-300 p-3">
-            <a
-              href="https://onedrive.live.com/"
-              target="_blank"
-            >
+            <a href="https://onedrive.live.com/" target="_blank">
               <Image
                 src="/assets/images/onedrive.png"
                 alt="Better Stack – Observability & Monitoring"
@@ -51,6 +45,5 @@ const More = () => (
     </table>
   </Section>
 );
-
 
 export { More };

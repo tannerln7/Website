@@ -4,10 +4,10 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 });
 
 module.exports = withBundleAnalyzer({
+  output: 'standalone',
   eslint: {
     dirs: ['.'],
   },
-  output: "standalone",
   poweredByHeader: false,
   trailingSlash: true,
   basePath: '',

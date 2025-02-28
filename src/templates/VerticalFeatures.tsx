@@ -28,5 +28,4 @@ const VerticalFeatures = () => (
   </Section>
 );
 
-
 export { VerticalFeatures };
