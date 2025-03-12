@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://jellyfin.tannerrln7.com">Sign in</Link>
+          <Link href="https://jellyfin.tannerln7.com">Sign in</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
