@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://auth.tannerrln7.com">Sign in</Link>
+          <Link href="https://jellyfin.tannerrln7.com">Sign in</Link>
         </li>
       </NavbarTwoColumns>
     </Section>
@@ -27,7 +27,7 @@ const Hero = () => (
         }
         description="Seamless, high-performance video hosting optimized for individuals, businesses, and enterprises alike."
         button={
-          <Link href="https://tannerln7.com">
+          <Link href="https://jellyfin.tannerln7.com">
             <Button xl>Get Started Now</Button>
           </Link>
         }

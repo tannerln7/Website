@@ -10,7 +10,7 @@ const Banner = () => (
       title="Inquire now to"
       subtitle="See The Difference."
       button={
-        <Link href="https://tannerln7.com">
+        <Link href="https://jellyfin.tannerln7.com">
           <Button>Get Started</Button>
         </Link>
       }
